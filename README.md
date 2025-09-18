@@ -2,3 +2,5 @@
 
 this repo is only menat to be use by student to learn and try diffetent git command
 
+this is the second change that i am doing in readme file
+
