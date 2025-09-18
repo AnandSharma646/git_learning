@@ -1,1 +1,4 @@
-# git_learning
+# Knowledgegate git learning project
+
+this repo is only menat to be use by student to learn and try diffetent git command
+
